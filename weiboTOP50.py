@@ -1,3 +1,6 @@
+# 2024.02.20
+# 爬取微博热搜
+
 import requests
 import parsel
 import csv
